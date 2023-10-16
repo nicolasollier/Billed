@@ -1,20 +1,20 @@
-Comment lancer l'application en local ?
-$ npm install -g live-server
+Avant de lancer le projet
+npm install -g live-server
 
 1 - Lancer le backend :
-$ cd ./back
-$ npm install
-$ npm run run:dev
+$cd ./back
+$npm install
+$npm run run:dev
 
 2 - Lancer le frontend :
-$ cd ./front
-$ npm install
-$ live-server
+$cd ./front
+$npm install
+$live-server
 
 Puis allez à l'adresse : http://127.0.0.1:8080/
 
 Comment lancer tous les tests en local avec Jest ?
-$ npm run test
+$npm run test
 
 Comment lancer un seul test ?
 Installez jest-cli :
