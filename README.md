@@ -4,15 +4,15 @@
 
 ============================================================================
 
-![Logo](https://user.oc-static.com/upload/2020/08/14/1597396368627_image2.png)
+![Logo]([https://user.oc-static.com/upload/2020/08/14/1597396368627_image2.png](https://user.oc-static.com/upload/2020/08/14/15973967670682_image1.png))
 
 Avant de lancer le projet
 `npm install -g live-server`
 
-##Lancer le backend :
-`cd ./back`_
-`npm install`_
-`npm run run:dev`_
+## Lancer le backend :
+`cd ./back`
+`npm install`
+`npm run run:dev`
 
 ## Lancer le frontend :
 `cd ./front`
