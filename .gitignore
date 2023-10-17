@@ -1,0 +1,6 @@
+.vscode
+back/node_modules
+front/node_modules
+front/coverage/
+back/node_modules/
+back/public/

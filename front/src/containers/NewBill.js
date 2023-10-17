@@ -19,7 +19,7 @@ export default class NewBill {
     e.preventDefault()
     const file = this.document.querySelector(`input[data-testid="file"]`).files[0]
 
-    if (file.type !== "image/jpeg" && file.type !== "image/png") {
+    if (file.type !== "image/jpeg" && file.type !== "image/jpg" && file.type !== "image/png") {
       alert("Le format de l'image n'est pas valide")
       this.document.querySelector(`input[data-testid="file"]`).value = null;
 
