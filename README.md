@@ -10,9 +10,9 @@ Avant de lancer le projet
 `npm install -g live-server`
 
 ##Lancer le backend :
-`cd ./back`
-`npm install`
-`npm run run:dev`
+`cd ./back`_
+`npm install`_
+`npm run run:dev`_
 
 ## Lancer le frontend :
 `cd ./front`
