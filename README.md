@@ -5,7 +5,7 @@ Débuggez et testez un SaaS RH
 
 ============================================================================
 
-![Preview]([https://user.oc-static.com/upload/2020/08/14/1597396368627_image2.png](https://user.oc-static.com/upload/2020/08/14/15973967670682_image1.png))
+![Preview](https://user.oc-static.com/upload/2020/08/14/15973967670682_image1.png)
 
 ⚠️ Avant de lancer le projet
 `npm install -g live-server`
