@@ -5,12 +5,12 @@ Projet
 Avant de lancer le projet
 `npm install -g live-server`
 
-#1 - Lancer le backend :
-`cd ./back`
-`npm install`
-`npm run run:dev`
+#⚙️ Lancer le backend :
+`cd ./back`\
+`npm install`\
+`npm run run:dev`\
 
-#2 - Lancer le frontend :
+#🎨 Lancer le frontend :
 `cd ./front`
 `npm install`
 `live-server`
