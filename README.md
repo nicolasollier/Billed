@@ -1,22 +1,23 @@
 ============================================================================
 
 ## Projet 9 - Openclassrooms
+Débuggez et testez un SaaS RH
 
 ============================================================================
 
-![Logo]([https://user.oc-static.com/upload/2020/08/14/1597396368627_image2.png](https://user.oc-static.com/upload/2020/08/14/15973967670682_image1.png))
+![Preview]([https://user.oc-static.com/upload/2020/08/14/1597396368627_image2.png](https://user.oc-static.com/upload/2020/08/14/15973967670682_image1.png))
 
-Avant de lancer le projet
+⚠️ Avant de lancer le projet
 `npm install -g live-server`
 
-## Lancer le backend :
-`cd ./back`
-`npm install`
+## ⚙️ Backend :
+`cd ./back`\
+`npm install`\
 `npm run run:dev`
 
-## Lancer le frontend :
-`cd ./front`
-`npm install`
+## 🎨 Frontend :
+`cd ./front`\
+`npm install`\
 `live-server`
 
 Puis allez à l'adresse : http://127.0.0.1:8080/
@@ -33,12 +34,12 @@ Installez jest-cli :
 Comment voir la couverture de test ?
 http://127.0.0.1:8080/coverage/lcov-report/
 
-Comptes et utilisateurs :
+Comptes et utilisateurs :\
 Vous pouvez vous connecter en utilisant les comptes:
 
-administrateur :
-utilisateur : admin@test.tld 
-mot de passe : admin
-employé :
-utilisateur : employee@test.tld
+administrateur :\
+utilisateur : admin@test.tld\
+mot de passe : admin\
+employé :\
+utilisateur : employee@test.tld\
 mot de passe : employee
