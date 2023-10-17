@@ -1,18 +1,21 @@
-Projet 
+============================================================================
 
+##Projet 9 - Openclassrooms
+
+============================================================================
 ![Logo]https://user.oc-static.com/upload/2020/08/14/1597396368627_image2.png
 
 Avant de lancer le projet
 `npm install -g live-server`
 
-#⚙️ Lancer le backend :
+# Lancer le backend :
 `cd ./back`\
 `npm install`\
-`npm run run:dev`\
+`npm run run:dev`
 
-#🎨 Lancer le frontend :
-`cd ./front`
-`npm install`
+# Lancer le frontend :
+`cd ./front`\
+`npm install`\
 `live-server`
 
 Puis allez à l'adresse : http://127.0.0.1:8080/
